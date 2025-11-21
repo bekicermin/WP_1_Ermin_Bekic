@@ -11,6 +11,7 @@ body
     color:#484645;
     margin:0;
     line-height:1.6;
+  
 }
 
 header img
@@ -67,13 +68,13 @@ nav ul li
 
 a, a:hover, a:visited, a:active
 {
-    color: #c30f10;
+    color: #87CEFA;
     font-weight:bold;
 }
 
 h2, h3
 {
-    color: #c30f10;
+    color: #87CEFA;
 }
 
 article
@@ -81,7 +82,7 @@ article
     padding :20px 40px;
     box-sizing: border-box;
     
-    border-bottom: 2px solid #0000ff; /* plava linija */
+    border-bottom: 2px solid #87CEFA;
     min-height:600px;
 }
 
@@ -111,6 +112,7 @@ td, th
     font-size:12px;
     border: solid 1px #6d6c6c;
     padding:5px 3px;
+
 }
 
 th
@@ -145,7 +147,7 @@ fieldset
 
 fieldset legend
 {
-    color: #c30f10;
+    color: #87CEFA;
     font-weight:bold;
 }
 
@@ -174,7 +176,7 @@ input[type=checkbox]
 
 button
 {
-    background-color: #c30f10;
+    background-color: #87CEFA;
     color:white;
     font-weight:bold;
     border:none;
