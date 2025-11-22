@@ -82,7 +82,7 @@ article
 {
     padding :20px 40px;
     box-sizing: border-box;
-    
+
     border-bottom: 2px solid #87CEFA;
     min-height:600px;
 }
@@ -90,8 +90,8 @@ article
 article img
 {
     float:right;
-    margin-right:15px;
-    margin-bottom:15px;
+    margin-right:50px;
+    margin-bottom:50px;
 }
 
 footer
