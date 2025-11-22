@@ -31,8 +31,8 @@ h1 {
  margin-right: 5px;
 }
 button {
- background: #0078d7;
- color: white;
+ background: #add8e6;
+ color: blue;
  border: none;
  border-radius: 8px;
  padding: 8px 12px;
@@ -41,7 +41,7 @@ button {
  transition: background 0.2s;
 }
 button:hover {
- background: #005fa3;
+ background: #add8e6;
 }
 canvas {
  background: white;
