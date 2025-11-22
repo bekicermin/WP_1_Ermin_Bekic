@@ -185,39 +185,3 @@ button
     border-radius:5px;
     
 }
-nav ul li.dropdown {
-    position: relative;
-}
-
-
-nav ul li .submenu {
-    display: none;          
-    position: absolute;
-    top: 100%;             
-    left: 0;
-    background-color: #c30f10;
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    border: 1px solid black; 
-}
-
-
-nav ul li .submenu li {
-    display: block;
-}
-
-
-nav ul li .submenu li a {
-    padding: 5px 10px;
-    display: block;
-    color: white;
-    text-decoration: none;
-    font-size: 14px;
-}
-
-
-
-nav ul li.dropdown:hover .submenu {
-    display: block;
-}
